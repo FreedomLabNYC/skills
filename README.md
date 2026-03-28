@@ -1,0 +1,27 @@
+# Freedom Lab NYC — Open Source AI Skills
+
+Downloadable skill packages for AI agents. Each skill teaches your agent a specific workflow — from making purchases with Bitcoin to creating videos programmatically.
+
+**Browse skills on the web:** [freedomlab.nyc/resources](https://freedomlab.nyc/resources/#ai-skills)
+
+## Skills
+
+| Skill | Description |
+|-------|-------------|
+| [Buy With Bitcoin (Bitrefill)](buy-with-bitcoin-bitrefill/) | Spend Bitcoin at any online store using Lightning → Bitrefill Visa → automated checkout |
+| [Skill Creator](skill-creator/) | Teach your agent how to create, edit, and audit skills |
+| [Quality Toolkit](quality-toolkit/) | Premise Check + Stress Test — QA for AI agent workflows |
+| [Programmatic Video](programmatic-video/) | Create deterministic video content with Three.js, Remotion, and FFmpeg |
+| [X/Twitter Research](x-research/) | Research accounts, map trust networks, find real recommendations |
+
+## Installing a Skill
+
+Download the `.skill` file from the skill's page on [freedomlab.nyc](https://freedomlab.nyc/resources/#ai-skills), or clone this repo and point your agent at the skill's `SKILL.md`.
+
+## Contributing
+
+Have a skill to share? [Submit it to Freedom Lab](https://freedomlab.nyc/resources/submit-skill/)
+
+## License
+
+Each skill may have its own license. See individual skill directories for details.
