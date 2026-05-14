@@ -25,7 +25,7 @@ equipped with procedural knowledge that no model can fully possess.
 
 ### Concise is Key
 
-The context window is a public good. Skills share the context window with everything else Codex needs: system prompt, conversation history, other Skills' metadata, and the actual user request.
+The agent's available context is limited and should be treated as scarce. Skills share the context window with everything else Codex needs: system prompt, conversation history, other Skills' metadata, and the actual user request.
 
 **Default assumption: Codex is already very smart.** Only add context Codex doesn't already have. Challenge each piece of information: "Does Codex really need this explanation?" and "Does this paragraph justify its token cost?"
 
