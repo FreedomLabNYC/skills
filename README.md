@@ -13,6 +13,7 @@ Downloadable skill packages for AI agents. Each skill teaches your agent a speci
 | [Quality Toolkit](quality-toolkit/) | Premise Check + Stress Test — QA for AI agent workflows |
 | [Programmatic Video](programmatic-video/) | Create deterministic video content with Three.js, Remotion, and FFmpeg |
 | [X/Twitter Research](x-research/) | Research accounts, map trust networks, find real recommendations |
+| [Interactive Device Viewer](interactive-device-viewer/) | Build, QA, and publish an interactive Three.js exploded-assembly device page (the voicehardware site on freedomlab.nyc) |
 
 ## Installing a Skill
 
